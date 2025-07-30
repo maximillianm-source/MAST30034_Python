@@ -10,4 +10,4 @@ Jupyter notebooks can be found in the tutorials folder. Ensure that you have ins
 # Publishing step
 # CLI step
 # CLI step cancelled
-
+#  Pre-requisite notebook complete
